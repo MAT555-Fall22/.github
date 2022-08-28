@@ -10,8 +10,8 @@
 `MAT555E` is graduate level course aims to provide an introduction to mathematical and statistical theory behind the methods commonly used in learning from data in today's modern era. The course is designed such that:    
 
   - The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a 
-  focus on clustering problems.      
-  - Extensions of these methods to high-dimensional settings will also be discussed.      
+  focus on clustering problems,      
+  - Extensions of these methods to high-dimensional settings will also be discussed, and  
   - Application of these methods to data analysis problems and their implementation 
   will be done via Python.       
  
@@ -33,4 +33,3 @@ Since the course goes deep into the mathematical and statistical theory behind t
   - Familiarity with at least one computational document such as Jupyter Notebook, Google Colab, Visual Studio Code, or RStudio Quarto, and
   - Familiarity with Git and GitHub commands.
 </p>
-
