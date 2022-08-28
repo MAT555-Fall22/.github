@@ -13,7 +13,7 @@
   focus on clustering problems,      
   - Extensions of these methods to high-dimensional settings will also be discussed, and  
   - Application of these methods to data analysis problems and their implementation 
-  will be done via Python.       
+  will be done via [Python](https://www.python.org/downloads/) (v. 3.10.6).       
  
 At the end of the semester, the students are expected:
 
@@ -29,7 +29,7 @@ At the end of the semester, the students are expected:
 Since the course goes deep into the mathematical and statistical theory behind the methods and uses Python for implementation, this course requires the following background:
 
   - Knowledge of linear algebra, probability, statistics, and optimization,
-  - Familiarity with Python's Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn libraries, 
-  - Familiarity with at least one computational document such as Jupyter Notebook, Google Colab, Visual Studio Code, or RStudio Quarto, and
-  - Familiarity with Git and GitHub commands.
+  - Familiarity with Python's [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Scikit-Learn](https://scikit-learn.org/stable/) libraries, 
+  - Familiarity with at least one computational document such as [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/), or [RStudio Quarto](https://quarto.org/docs/tools/rstudio.html), and
+  - Familiarity with [Git](https://git-scm.com/) and [GitHub](https://github.com/) commands.
 </p>
