@@ -1,4 +1,4 @@
-## MAT555E-Statistical Data Analysis for Comp. Sciences  
+## MAT555E-Statistical Data Analysis for Computational Sciences  
 
 
 **Course Instructor:** [Gül İnan](https://gulinan.github.io/)
