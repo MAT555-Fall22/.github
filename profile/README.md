@@ -11,7 +11,7 @@
   - The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a 
   focus on clustering problems,   
   - Extensions of these methods to high-dimensional settings will also be discussed, and
-  - Application of these methods to data mining problems and their software implementation 
+  - Application of these methods to data analysis problems and their software implementation 
   will be done via [Python](https://www.python.org/downloads/) (v. 3.10.6).
  
 At the end of the semester, the students are expected:
