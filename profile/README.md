@@ -32,7 +32,7 @@ Since the course also touches on the mathematical and statistical theory behind 
   - Familiarity with [Git](https://git-scm.com/) and [GitHub](https://github.com/) commands.
 
 
-## Course Tentative Plan
+**Course Tentative Plan:**
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
