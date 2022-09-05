@@ -30,3 +30,38 @@ Since the course also touches on the mathematical and statistical theory behind 
   - Familiarity with Python's [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/), and [Scikit-Learn](https://scikit-learn.org/stable/) libraries, 
   - Familiarity with at least one computational document such as [Jupyter Notebook](https://jupyter.org/), [Google Colab](https://colab.research.google.com/), [Visual Studio Code](https://code.visualstudio.com/), or [RStudio Quarto](https://quarto.org/docs/tools/rstudio.html), and
   - Familiarity with [Git](https://git-scm.com/) and [GitHub](https://github.com/) commands.
+
+
+## Course Tentative Plan
+
+We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
+
+Week 1. Introduction. Framing a learning problem. Supervised learning. Simple linear regression.
+
+Week 2. Multiple linear regression.
+
+Week 3. Multiple linear regression continu'ed.
+
+Week 4. Introduction to classification. Logistic regression. Multinomial logistic regression. 
+
+Week 5. Naive Bayes. K-nearest neighbors.
+
+Week 6. Linear discriminant analysis. Quadratic discriminant analysis. 
+
+Week 7. Cross-validation. Unsupervised pre-processing. Grid search and hyper-parameter tuning.
+
+Week 8. ITU Fall Break.
+
+Week 9. Model assessment and selection. Regularization methods for regression and classification problems. Ridge regression and lasso. Extensions to non-convex penalties.
+
+Week 10. Moving beyond linearity. Polynomial regression. Regression splines.
+
+Week 11. Tree based methods. Bagging, Random forests, and Boosting.
+
+Week 12. Support vector machines.
+
+Week 13. Unsupervised learning. Principal component analysis. Factor analysis.
+
+Week 14. Clustering methods.
+
+Week 15. Final review and examples.
