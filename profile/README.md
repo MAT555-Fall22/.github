@@ -6,7 +6,8 @@
 **Course Summary:**
 
 
-`MAT555E` is a graduate level course which aims to provide an introduction to statistical learning methods commonly used for inference and prediction. The course will harmonize statistical theory and data analysis through examples. This course is designed such that:  
+`MAT555E` is a graduate level course which aims to provide an introduction to commonly used statistical methods for inference and prediction
+problems in data analysis. The course will harmonize statistical theory and data analysis through examples. This course is designed such that:
 
   - The methods covered will include supervised learning algorithms with a focus on regression and classification problems and unsupervised learning algorithms with a 
   focus on clustering problems,   
