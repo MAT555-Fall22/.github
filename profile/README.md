@@ -36,11 +36,11 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Introduction. Framing a learning problem. Supervised learning. Simple linear regression.
+Week 1. Week 1. Introduction. Framing a learning problem. Explanatory data analysis.
 
-Week 2. Multiple linear regression.
+Week 2. Simple linear regression.
 
-Week 3. Multiple linear regression continu'ed.
+Week 3. Multiple linear regression.
 
 Week 4. Introduction to classification. Logistic regression. Multinomial logistic regression. 
 
