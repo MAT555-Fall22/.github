@@ -36,7 +36,7 @@ Since the course also touches on the mathematical and statistical theory behind 
 
 We will closely follow the weekly schedule given below. However, weekly class schedules are subject to change depending on the progress we make as a class.
 
-Week 1. Week 1. Introduction. Framing a learning problem. Explanatory data analysis.
+Week 1. Introduction. Framing a learning problem. Explanatory data analysis.
 
 Week 2. Simple linear regression.
 
